@@ -6,9 +6,12 @@ I'm Rodrigo R. da Silva, a software developer student. I'm currently seeking wor
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rodrigoribesi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="33%" />                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoribesi&theme=dracula&hide_border=false"  width="36%" />                   ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=rodrigoribesi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Techs I study:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=%2f05033) 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoribesi) 
