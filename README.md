@@ -3,7 +3,7 @@
 I'm Rodrigo R. da Silva, a software developer student. I'm currently seeking work as a Junior Software Developer. I still have no job experience and I look forward to find my first opportunity to show what I am capable of learning and applying to solve people's problems.
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rodrigoribesi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="33%" />                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoribesi&theme=dracula&hide_border=false"  width="36%" />                   ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=rodrigoribesi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rodrigoribesi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="370px" />                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoribesi&theme=dracula&hide_border=false"  width="405px" />                   ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=rodrigoribesi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Techs I study:
 
