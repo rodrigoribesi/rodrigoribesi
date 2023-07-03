@@ -10,7 +10,7 @@ I'm Rodrigo R. da Silva, a software developer student. I'm currently seeking wor
   </picture>
 
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribesi&layout=compact&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribesi&show_icons=true&theme=dark" />
   </picture>
 </div>
 
