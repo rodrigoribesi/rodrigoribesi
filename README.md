@@ -2,20 +2,27 @@
 
 I'm Rodrigo R. da Silva, a software developer student. I'm currently seeking work as a Junior Software Developer. I still have no job experience and I look forward to find my first opportunity to show what I am capable of learning and applying to solve people's problems.
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-|  [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoribesi&theme=dark&show_icons=true)](https://github.com/rodrigoribesi/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribesi&layout=compact&theme=dark) |
-| ------------- | ------------- |
+<div>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=rodrigoribesi&show_icons=true&theme=dark" />
+  </picture>
 
-# 💻 Techs I study:
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribesi&layout=compact&show_icons=true&theme=dark" />
+  </picture>
+</div>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=%2f05033) 
+## 💻 Techs:
 
-# 🌐 Socials:
+<div>
+  <picture>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,html,css,js&theme=dark" />
+  </picture>
+</div>
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoribesi) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoribesi) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rodrigoribesi) 
